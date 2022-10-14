@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Nazar2000/Alina-Portfolio.git/static/css/main.72dc1b68.css",
-    "main.js": "/Nazar2000/Alina-Portfolio.git/static/js/main.3208854d.js",
-    "static/js/787.a99e963d.chunk.js": "/Nazar2000/Alina-Portfolio.git/static/js/787.a99e963d.chunk.js",
-    "static/media/photo4.jpg": "/Nazar2000/Alina-Portfolio.git/static/media/photo4.c3ccb93c732495202809.jpg",
-    "static/media/photo2.jpg": "/Nazar2000/Alina-Portfolio.git/static/media/photo2.f873ab4c193ca834eb2b.jpg",
-    "static/media/alina-head.jpg": "/Nazar2000/Alina-Portfolio.git/static/media/alina-head.0b8d7a725a5dde46d027.jpg",
-    "static/media/photo1.jpg": "/Nazar2000/Alina-Portfolio.git/static/media/photo1.13b82b337b19e523255d.jpg",
-    "static/media/photo5.jpg": "/Nazar2000/Alina-Portfolio.git/static/media/photo5.d179fba89d1db827a3e3.jpg",
-    "static/media/photo7.jpg": "/Nazar2000/Alina-Portfolio.git/static/media/photo7.6928836ab499fdf63948.jpg",
-    "static/media/photo3.jpg": "/Nazar2000/Alina-Portfolio.git/static/media/photo3.6e52f7eb67561564bb30.jpg",
-    "static/media/photo6.jpg": "/Nazar2000/Alina-Portfolio.git/static/media/photo6.098ab0970d61fb885906.jpg",
-    "index.html": "/Nazar2000/Alina-Portfolio.git/index.html",
-    "main.72dc1b68.css.map": "/Nazar2000/Alina-Portfolio.git/static/css/main.72dc1b68.css.map",
-    "main.3208854d.js.map": "/Nazar2000/Alina-Portfolio.git/static/js/main.3208854d.js.map",
-    "787.a99e963d.chunk.js.map": "/Nazar2000/Alina-Portfolio.git/static/js/787.a99e963d.chunk.js.map"
+    "main.css": "./static/css/main.72dc1b68.css",
+    "main.js": "./static/js/main.f1cf533e.js",
+    "static/js/787.a99e963d.chunk.js": "./static/js/787.a99e963d.chunk.js",
+    "static/media/photo4.jpg": "./static/media/photo4.c3ccb93c732495202809.jpg",
+    "static/media/photo2.jpg": "./static/media/photo2.f873ab4c193ca834eb2b.jpg",
+    "static/media/alina-head.jpg": "./static/media/alina-head.0b8d7a725a5dde46d027.jpg",
+    "static/media/photo1.jpg": "./static/media/photo1.13b82b337b19e523255d.jpg",
+    "static/media/photo5.jpg": "./static/media/photo5.d179fba89d1db827a3e3.jpg",
+    "static/media/photo7.jpg": "./static/media/photo7.6928836ab499fdf63948.jpg",
+    "static/media/photo3.jpg": "./static/media/photo3.6e52f7eb67561564bb30.jpg",
+    "static/media/photo6.jpg": "./static/media/photo6.098ab0970d61fb885906.jpg",
+    "index.html": "./index.html",
+    "main.72dc1b68.css.map": "./static/css/main.72dc1b68.css.map",
+    "main.f1cf533e.js.map": "./static/js/main.f1cf533e.js.map",
+    "787.a99e963d.chunk.js.map": "./static/js/787.a99e963d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72dc1b68.css",
-    "static/js/main.3208854d.js"
+    "static/js/main.f1cf533e.js"
   ]
 }
