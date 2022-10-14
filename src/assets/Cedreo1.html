@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Import Google Icon Font-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    <!--Import materialize.css -->
+    <link rel="stylesheet" href="dependencies/css/materialize/materialize.css" type="text/css">
+
+    <!-- Import intl-tel-input css -->
+    <link rel="stylesheet" href="css/intlTelInput.min.css" type="text/css"/>
+
+    <!--Import cedreo.css -->
+    <link rel="stylesheet" href="dependencies/css/cedreo/cedreo.css" type="text/css">
+
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <script type="text/javascript" src="api/configuration/admin.js"></script>
+
+    <!-- Meta informations. -->
+    <title>Cedreo</title>
+    <meta name="description" content="Connectez-vous à Cedreo, le logiciel pour les professionnels de la construction et de la rénovation de maison"/>
+
+    <!-- Avoid indexing on search engine. -->
+    <meta name="robots" content="noindex,nofollow"/>
+
+    <script type="text/javascript">
+        erraiJaxRsApplicationRoot = "api";
+        erraiJaxRsJacksonMarshallingActive = true;
+        erraiBusRemoteCommunicationEnabled = false;
+    </script>
+</head>
+
+<body>
+
+<!-- RECOMMENDED if your web app will not function without JavaScript enabled -->
+<noscript>
+    <div
+            style="width: 22em; position: absolute; left: 50%; margin-left: -11em; color: red; background-color: white; border: 1px solid red; padding: 4px; font-family: sans-serif">
+        Your web browser must have JavaScript enabled in order for this
+        application to display correctly.
+    </div>
+</noscript>
+
+<!--Import jQuery before materialize.js-->
+<script type="text/javascript" src="dependencies/js/jquery/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="dependencies/js/materialize/materialize.min.js"></script>
+<script type="text/javascript" src="js/tinymce/tinymce.min.js"></script>
+<script type="text/javascript" src="js/moment/moment-2.23.0.min.js"></script>
+<script type="text/javascript" src="js/chart/chart.bundle.min.js"></script>
+<script type="text/javascript" src="dependencies/js/jwt-decode/jwt-decode.min.js"></script>
+<script type="text/javascript" src="project_manager/project_manager.nocache.js"></script>
+<script type="text/javascript" src="js/html2canvas/html2canvas.min.js"></script>
+<script type="text/javascript" src="js/jspdf/jspdf.min.js"></script>
+<script type="text/javascript" src="js/jspdf/font/verdana-bold.js"></script>
+<script type="text/javascript" src="js/jspdf/font/verdana-normal.js"></script>
+<script type="text/javascript" src="js/jspdf/font/verdana-italic.js"></script>
+<script type="text/javascript" src="js/jspdf/font/verdana-bolditalic.js"></script>
+<script type="text/javascript" src="cedreo/js/CIInclude.js"></script>
+<script type="text/javascript" src="dependencies/js/planner-api/planner-api.min.js"></script>
+<script type="text/javascript" src="dependencies/js/planner-api-product-tour/planner-api-product-tour.min.js"></script>
+<script type="text/javascript" src="js/screeb/screeb-integration.js"></script>
+<script type="text/javascript" src="js/intltelinput/intlTelInput.min.js"></script>
+<script type="text/javascript" src="js/intltelinput/utils.js"></script>
+<script type="text/javascript" src="js/version/CMPProjectManagerVersion.js"></script>
+<script src="https://js.chargebee.com/v2/chargebee.js"></script>
+<script>
+    // Include CEDREO style.
+    CIInclude.includeAllStyle("cedreo/style/");
+    // Include javascript.
+    CIInclude.includeAllJavaScript("cedreo/js/");
+</script>
+</body>
+</html>

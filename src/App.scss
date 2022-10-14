@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&display=swap');
+
+.alina-portfolio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &__header {
+    height: 60px;
+    width: 100%;
+    text-align: center;
+
+    h1 {
+      margin: 0;
+      line-height: 60px;
+      font-family: 'Marck Script', cursive;
+    }
+  }
+
+  &__content {
+    max-width: 1366px;
+    width: 100%;
+  }
+
+  &__top {
+    position: relative;
+
+    img {
+      width: 100%;
+      object-fit: cover;
+      height: 750px;
+      border-radius: 20px;
+    }
+  }
+
+  &__works {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    img {
+      height: 350px;
+      width: 350px;
+      object-fit: cover;
+      border-radius: 20px;
+      margin: 40px 0;
+      transition: all .3s ease;
+      cursor: pointer;
+
+      &:hover {
+        transform: scale(1.2);
+      }
+    }
+  }
+
+  &__about {
+    margin-top: 20px;
+    background: rgba(245, 222, 179, 0.77);
+    width: 100%;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+
+    h3 {
+      color: white;
+      margin: auto;
+      font-style: italic;
+      font-family: 'Gemunu Libre', sans-serif;
+      text-align: center;
+      font-size: 26px;
+      line-height: 30px;
+    }
+  }
+
+  &__footer {
+    background-color: #f4f6f4;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    h3 {
+      font-family: 'Open Sans', sans-serif;
+      color: #1c3638;
+      font-size: 20px;
+      line-height: 25px;
+      width: max-content;
+      cursor: pointer;
+      font-style: italic;
+    }
+  }
+}
