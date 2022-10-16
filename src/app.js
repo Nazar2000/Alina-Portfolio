@@ -23,7 +23,7 @@ function App() {
                 <div className="alina-portfolio__content">
                     <Routes>
                         <Route path="/" element={<Landing/>}></Route>
-                        <Route path="/album" element={<Album/>}></Route>
+                        <Route path="/Alina-Portfolio/album" element={<Album/>}></Route>
                         <Route path="*" element={<Landing/>}></Route>
                     </Routes>
                 </div>

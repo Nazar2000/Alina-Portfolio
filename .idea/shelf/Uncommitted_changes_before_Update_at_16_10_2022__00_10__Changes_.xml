@@ -1,0 +1,49 @@
+<changelist name="Uncommitted_changes_before_Update_at_16_10_2022,_00_10_[Changes]" date="1665868205828" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022,_00_10_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 16.10.2022, 00:10 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="src/assets/photo5.jpg" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="public/logo192.png" />
+    <option name="AFTER_PATH" value="public/logo192.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022,_00_10_[Changes]/logo192.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="public/logo512.png" />
+    <option name="AFTER_PATH" value="public/logo512.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022,_00_10_[Changes]/logo512.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="public/favicon.ico" />
+    <option name="AFTER_PATH" value="public/favicon.ico" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022,_00_10_[Changes]/favicon.ico" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/assets/photo6.jpg" />
+    <option name="AFTER_PATH" value="src/assets/photo6.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022,_00_10_[Changes]/photo6.jpg" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/assets/photo1.jpg" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/assets/photo3.jpg" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/assets/photo7.jpg" />
+    <option name="AFTER_PATH" value="src/assets/photo7.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2022,_00_10_[Changes]/photo7.jpg" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/assets/photo2.jpg" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>

@@ -38,7 +38,7 @@ export class Landing extends Component {
 
                 <div className="show-all-btn-block">
                     <button className="show-all-btn">
-                        <Link to="/album">Show All</Link>
+                        <Link to="/Alina-Portfolio/album">Show All</Link>
                     </button>
                 </div>
             </div>
