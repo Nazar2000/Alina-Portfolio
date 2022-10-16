@@ -11,7 +11,7 @@ function App() {
     document.title = 'Alina\'s Portfolio'
     const navigate = useNavigate();
     const arrowBackClass = window.location.toString().includes("album") ? 'back-icon' : 'hidden back-icon'
-    const backToHome = () => navigate('/', {replace: true});
+    const backToHome = () => navigate('/Alina-Portfolio', {replace: true});
 
     return (
         <div>
@@ -22,7 +22,7 @@ function App() {
             <div className="alina-portfolio">
                 <div className="alina-portfolio__content">
                     <Routes>
-                        <Route path="/" element={<Landing/>}></Route>
+                        <Route path="/Alina-Portfolio" element={<Landing/>}></Route>
                         <Route path="/Alina-Portfolio/album" element={<Album/>}></Route>
                         <Route path="*" element={<Landing/>}></Route>
                     </Routes>
