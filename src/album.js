@@ -4,7 +4,7 @@ import photo2 from "./assets/photo2.jpeg";
 import photo3 from "./assets/photo3.jpeg";
 import photo4 from "./assets/photo4.jpg";
 import photo5 from "./assets/photo5.jpeg";
-import photo6 from "./assets/photo6.JPG";
+import photo6 from "./assets/photo6.jpg";
 import photo7 from "./assets/photo7.jpg";
 import photo8 from "./assets/photo8.jpeg";
 import photo9 from "./assets/photo9.jpeg";

@@ -24,6 +24,7 @@ function App() {
                     <Routes>
                         <Route path="/" element={<Landing/>}></Route>
                         <Route path="/album" element={<Album/>}></Route>
+                        <Route path="*" element={<Landing/>}></Route>
                     </Routes>
                 </div>
             </div>
