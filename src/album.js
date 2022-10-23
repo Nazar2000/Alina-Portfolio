@@ -45,6 +45,7 @@ export class Album extends Component {
         const listMythsPictures = mythsPictures.map((img, i) => <img src={img} alt="" key={i}/>);
         const listUkrainePictures = ukrainePictures.map((img, i) => <img src={img} alt="" key={i}/>);
         const listOtherPictures = otherPictures.map((img, i) => <img src={img} alt="" key={i}/>);
+        window.scrollTo(0, 0);
 
         return (
             <div className="album-block">

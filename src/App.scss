@@ -99,20 +99,64 @@
   }
 
   &__footer {
-    background-color: #f4f6f4;
+    background: rgba(245, 222, 179, 1);
     min-height: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
+    font-family: 'Marck Script', cursive;
 
-    h3 {
-      font-family: 'Open Sans', sans-serif;
-      color: #1c3638;
-      font-size: 20px;
-      line-height: 25px;
+    ul {
+      width: 100%;
+      max-width: 1366px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      text-decoration: none;
+      margin-left: 0;
+      list-style-type: none;
+    }
+
+    .socials-media {
+      display: flex;
+      justify-content: flex-start;
+      padding: 0;
+    }
+
+    h5 {
+      color: white;
+      font-size: 18px;
+      line-height: 22px;
       width: max-content;
       cursor: pointer;
-      font-style: italic;
+      font-weight: normal;
+      margin: 10px 0;
+    }
+
+    a {
+      display: flex;
+      flex-direction: row;
+      align-items: baseline;
+      color: #fff;
+      text-decoration: none;
+    }
+
+    img {
+      width: 22px;
+      height: 22px;
+      margin-left: 10px;
+      margin-right: 20px;
+    }
+
+    h6 {
+      font-size: 22px;
+      line-height: 26px;
+      margin: 10px 0;
+    }
+    span{
+      font-size: 18px;
+      line-height: 22px;
     }
   }
 }
@@ -127,7 +171,7 @@
   .show-all-btn {
     width: 250px;
     height: 60px;
-    background: rgba(245, 222, 179, 0.77);
+    background: rgba(245, 222, 179, 1);
     border-radius: 20px;
     border: none;
     cursor: pointer;
